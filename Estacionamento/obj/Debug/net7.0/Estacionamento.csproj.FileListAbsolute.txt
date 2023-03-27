@@ -1,0 +1,15 @@
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\bin\Debug\net7.0\Estacionamento.exe
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\bin\Debug\net7.0\Estacionamento.deps.json
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\bin\Debug\net7.0\Estacionamento.runtimeconfig.json
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\bin\Debug\net7.0\Estacionamento.dll
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\bin\Debug\net7.0\Estacionamento.pdb
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfo.cs
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\Estacionamento.dll
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\refint\Estacionamento.dll
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\Estacionamento.pdb
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\Estacionamento.genruntimeconfig.cache
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana03\Estacionamento\obj\Debug\net7.0\ref\Estacionamento.dll
