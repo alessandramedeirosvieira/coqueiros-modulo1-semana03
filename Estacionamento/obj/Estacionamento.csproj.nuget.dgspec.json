@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\Estacionamento\\Estacionamento.csproj": {}
+    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\estacionamento\\Estacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\Estacionamento\\Estacionamento.csproj": {
+    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\estacionamento\\Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\Estacionamento\\Estacionamento.csproj",
+        "projectUniqueName": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\estacionamento\\Estacionamento.csproj",
         "projectName": "Estacionamento",
-        "projectPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\Estacionamento\\Estacionamento.csproj",
+        "projectPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\estacionamento\\Estacionamento.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\Estacionamento\\obj\\",
+        "outputPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana03\\estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
